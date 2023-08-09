@@ -1,0 +1,51 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/mycoses-candidiasis---secondary.py
+inputModule3:
+  class: File
+  path: python/other-mycoses---secondary.py
+inputModule4:
+  class: File
+  path: python/mycoses-pneumonia---secondary.py
+inputModule5:
+  class: File
+  path: python/mycoses-dermatophytosis---secondary.py
+inputModule6:
+  class: File
+  path: python/mycoses-coccidioidomycosis---secondary.py
+inputModule7:
+  class: File
+  path: python/mycoses-histoplasmosis---secondary.py
+inputModule8:
+  class: File
+  path: python/mycoses-blastomycosis---secondary.py
+inputModule9:
+  class: File
+  path: python/mycoses-paracoccidioidomycosis---secondary.py
+inputModule10:
+  class: File
+  path: python/mycoses-sporotrichosis---secondary.py
+inputModule11:
+  class: File
+  path: python/mycoses---secondary.py
+inputModule12:
+  class: File
+  path: python/mycoses-aspergillosis---secondary.py
+inputModule13:
+  class: File
+  path: python/mycoses-cryptococcosis---secondary.py
+inputModule14:
+  class: File
+  path: python/mycoses-zygomycosis---secondary.py
+inputModule15:
+  class: File
+  path: python/mycoses-mycetoma---secondary.py
+inputModule16:
+  class: File
+  path: python/mycoses-pneumocystosis---secondary.py
+inputModule17:
+  class: File
+  path: python/output-cases.py
